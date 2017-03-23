@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Target automation suite">
+	<test name="smoke test suite">
+
+		<packages>
+		    
+		    <package name="com.test"/>
+		    <package name="com.Test2"/>
+		
+		</packages>
+
+	</test>
+</suite>
+
+
+
+
+

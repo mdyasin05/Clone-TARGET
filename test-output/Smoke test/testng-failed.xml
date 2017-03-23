@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Smoke test]">
+  <test name="annotation test(failed)">
+    <groups>
+      <run>
+        <include name="priority1"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.test.S2ignInTets">
+        <methods>
+          <include name="SignInTesting"/>
+        </methods>
+      </class> <!-- com.test.S2ignInTets -->
+      <class name="com.test.S1ignInTesting">
+        <methods>
+          <include name="verifyCreateAcc"/>
+        </methods>
+      </class> <!-- com.test.S1ignInTesting -->
+    </classes>
+  </test> <!-- annotation test(failed) -->
+</suite> <!-- Failed suite [Smoke test] -->

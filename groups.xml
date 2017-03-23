@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smoke test">
+	<test name="annotation test">
+		<groups>
+			<run>
+			
+				<include name="priority1"/>
+				
+			</run>
+		</groups>
+
+		<classes>
+			<class name="com.test.S1ignInTesting" />
+			<class name="com.test.S2ignInTets" />
+			<class name="com.Test2.MoreTest1" />
+		</classes>
+	</test>
+</suite>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

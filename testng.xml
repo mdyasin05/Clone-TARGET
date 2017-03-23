@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Target automation suite">
+	<test name="smoke test suite">
+
+		<classes>
+		    
+		    <class name="com.test.S1ignInTesting"/>
+		    <class name="com.test.S2ignInTets"/>
+			<class name="com.Test2.MoreTest1"/>
+
+
+		</classes>
+
+	</test>
+</suite>
+
+
+
+
+

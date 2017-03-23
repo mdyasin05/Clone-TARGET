@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47" started-at="2017-03-09T02:18:00Z" finished-at="2017-03-09T02:18:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47" started-at="2017-03-09T02:18:00Z" finished-at="2017-03-09T02:18:00Z">
+      <class name="com.value.DataProvider">
+        <test-method status="PASS" signature="dprovider(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.value.DataProvider@26be92ad]" name="dprovider" duration-ms="16" started-at="2017-03-08T21:18:00Z" data-provider="getData" finished-at="2017-03-08T21:18:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rony]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[01]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dprovider -->
+        <test-method status="PASS" signature="dprovider(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.value.DataProvider@26be92ad]" name="dprovider" duration-ms="0" started-at="2017-03-08T21:18:00Z" data-provider="getData" finished-at="2017-03-08T21:18:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[012]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dprovider -->
+        <test-method status="PASS" signature="dprovider(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.value.DataProvider@26be92ad]" name="dprovider" duration-ms="0" started-at="2017-03-08T21:18:00Z" data-provider="getData" finished-at="2017-03-08T21:18:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[momin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[03]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dprovider -->
+      </class> <!-- com.value.DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
